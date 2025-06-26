@@ -1,4 +1,4 @@
-# ElevateIntern_Project
+# ElevateIntern_Project_2
 Web Application Vulnerability Scanner
 
 Description:
